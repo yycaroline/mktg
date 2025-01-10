@@ -1,0 +1,8 @@
+plotly==5.23.0
+polars==1.4.1
+pandas
+scikit-learn
+pyarrow
+matplotlib
+jupyter
+xgboost
